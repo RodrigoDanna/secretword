@@ -1,0 +1,49 @@
+.game__score{
+    font-size:1.6rem;
+}
+
+.game__hint{
+    margin-top:2rem;
+    margin-bottom:1.3rem;
+}
+
+.game_attempts{
+    margin-bottom:1.5rem;
+}
+
+.game__wordContainer{
+    display:inline-flex;
+    border:4px solid black;
+    padding: 2rem;
+    margin-bottom:2rem;
+}
+
+.game__wordContainer span{
+    background:white;
+    border:2px solid black;
+    color:black;
+    width:3rem;
+    height:3.4rem;
+    font-size:2.4rem;
+    font-weight: bold;
+}
+
+.game__form{
+    margin-bottom:2rem;
+}
+
+.game__input{
+    font-size:1.4rem;
+    text-transform: uppercase;
+    width: 1.4rem;
+    word-wrap: nowrap;
+    margin-right:0.5rem;
+    text-align: center;
+
+    color: transparent;
+    text-shadow: 0 0 0 black;
+}
+
+.game__button{
+    padding:0.6rem;
+}
